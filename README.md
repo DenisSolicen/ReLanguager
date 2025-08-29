@@ -1,7 +1,10 @@
 # 🌟 ReLanguager (Star Rail)
 
 **ReLanguager** is a specialized console utility designed for modifying language settings in [Star Rail](https://hsr.hoyoverse.com/) client.<br>
-It changes the language of the game client to any of the available ones. **Do not use it in the regular game client!**
+It changes the language of the game client to any of the available ones. 
+
+> [!IMPORTANT]  
+> **Do not use it in the regular (main / normal) game client!**
 
 ### ✨ Features
 - 🔍 Automatic configuration file detection
