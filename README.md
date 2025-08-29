@@ -27,3 +27,6 @@ It changes the language of the game client to any of the available ones. **Do no
 - Tool creates backup files automatically
 - Use responsibly and at your own risk
 - Do not use it in the regular (main / normal) game client!
+
+### 💬 Community & Support
+Join my [Discord community](https://discord.gg/3wjcQzy7zz) for support and suggestions!
