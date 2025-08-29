@@ -17,7 +17,7 @@
 
 ### 📦 Installation
 1. Download latest release from [Releases](https://github.com/DenisSolicen/ReLanguager/releases) section
-2. Extract files to game client directory
+2. Copy file to game client directory
 3. Ensure .NET 8.0 is installed
 4. Run `ReLanguager.exe`!
 
