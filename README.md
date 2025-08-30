@@ -1,6 +1,6 @@
-# 🌟 ReLanguager (Star Rail)
+# 🌟 ReLanguager (Honkai: Star Rail)
 
-**ReLanguager** is a specialized console utility designed for modifying language settings in [Star Rail](https://hsr.hoyoverse.com/) client.<br>
+**ReLanguager** is a utility designed for modifying language settings in [Honkai: Star Rail](https://hsr.hoyoverse.com/) CN Client.<br>
 It changes the language of the game client to any of the available ones. 
 
 > [!IMPORTANT]  
@@ -20,7 +20,7 @@ It changes the language of the game client to any of the available ones.
 - Administrator privileges (recommended)
 
 ### 📦 Installation
-1. Download latest release from [Releases](https://github.com/DenisSolicen/ReLanguager/releases) section
+1. Download latest release from [Releases](https://github.com/DenisSolicen/ReLanguager/releases)
 2. Copy utility `.exe` to game client directory
 3. Ensure .NET 8.0 is installed
 4. Run `ReLanguager.exe`!
@@ -32,4 +32,5 @@ It changes the language of the game client to any of the available ones.
 - Do not use it in the regular (main / normal) game client!
 
 ### 💬 Community & Support
-Join my [Discord community](https://discord.gg/3wjcQzy7zz) for support and suggestions!
+- Join my [Discord community](https://discord.gg/3wjcQzy7zz) for support and suggestions!<br>
+- Feel free to write to me via [Telegram](https://t.me/solicen) (RU / EN)
