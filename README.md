@@ -8,7 +8,7 @@ It changes the language of the game client to any of the available ones.
 
 ### ✨ Features
 - 🔍 Automatic configuration file detection
-- 🌐 Language (text only) support (CN, EN, JP)
+- 🌐 Language support (CN, EN, JP, KR)
 - 💾 Automatic backup system
 - ✅ Safety checks and validations
 - 🎨 Elegant console interface with smooth animations
